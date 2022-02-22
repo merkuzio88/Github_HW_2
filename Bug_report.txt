@@ -1,0 +1,15 @@
+ID:
+Version:
+Project:
+Title:
+Summary:
+Descriprion:
+Environment:
+Actual result:
+Expected result:
+Requirement ID:
+Reproduced on:
+Reproducibility:
+Workaround:
+Steps to reproduce:
+Attachment:
